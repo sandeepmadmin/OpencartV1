@@ -1,1 +1,1 @@
-pytest -s -v -m .\testCases\ -m "sanity"
+pytest -s -v -m .\testCases\ -m "regression"
